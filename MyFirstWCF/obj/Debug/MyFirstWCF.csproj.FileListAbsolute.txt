@@ -1,1 +1,6 @@
 F:\WCF\MyFirstWCF\MyFirstWCF\bin\Debug\MyFirstWCF.exe.config
+F:\WCF\MyFirstWCF\MyFirstWCF\bin\Debug\MyFirstWCF.exe
+F:\WCF\MyFirstWCF\MyFirstWCF\bin\Debug\MyFirstWCF.pdb
+F:\WCF\MyFirstWCF\MyFirstWCF\obj\Debug\MyFirstWCF.csprojResolveAssemblyReference.cache
+F:\WCF\MyFirstWCF\MyFirstWCF\obj\Debug\MyFirstWCF.exe
+F:\WCF\MyFirstWCF\MyFirstWCF\obj\Debug\MyFirstWCF.pdb
